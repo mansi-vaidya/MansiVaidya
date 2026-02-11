@@ -48,16 +48,20 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <br/>
 
+<h3 align="left">📊 GitHub Stats</h3>
 
-<a href="https://github.com/mansi-vaidya">
-  <img alt="Mansi's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=mansi-vaidya&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=mansi-vaidya&theme=dark&hide_border=false" /><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-vaidya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+<br/><br/>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=mansi-vaidya&icon=0&color=0" />
 </a>
 
-<a href="https://github.com/mansi-vaidya">
-  <img alt="Mansi's Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
 
 
 
