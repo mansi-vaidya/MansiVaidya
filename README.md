@@ -45,5 +45,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deugayakwad15&show_icons=true&locale=en&layout=compact" alt="deugayakwad15" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansi-vaidya&show_icons=true&locale=en&layout=compact" alt="mansi-vaidya" /></p>
 
