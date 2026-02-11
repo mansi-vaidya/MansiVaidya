@@ -57,4 +57,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-vaidya&theme=dark&hide_border=false&layout=compact" />
 </p>
 
+<br/>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimsatkarS" alt="nimsatkarS" /></a> </p>
+  <br/>
+    <a href="https://github.com/mansi-vaidya/github-readme-stats"><img alt="Sanket's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mansi-vaidya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/mansi-vaidya/github-readme-stats"><img alt="Mansi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-vaidya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansi-vaidya&show_icons=true&locale=en&layout=compact" alt="mansi-vaidya" /></p>
