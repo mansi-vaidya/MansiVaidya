@@ -50,12 +50,20 @@
 </p>
 
 
-<h3 align="left"> GitHub Statistics: </h3>
+<h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansi-vaidya&show_icons=true&theme=tokyonight&hide_border=true" />
+<div align="center">
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mansi-vaidya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansi-vaidya&theme=tokyonight&hide_border=true" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-vaidya&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=mansi-vaidya&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-vaidya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
