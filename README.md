@@ -53,11 +53,9 @@
 <h3 align="left"> GitHub Statistics: </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansi-vaidya&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mansi-vaidya&show_icons=true&theme=tokyonight&hide_border=true" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansi-vaidya&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansi-vaidya&theme=tokyonight&hide_border=true" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-vaidya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-vaidya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansi-vaidya&show_icons=true&locale=en&layout=compact" alt="mansi-vaidya" /></p>
