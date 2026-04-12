@@ -56,7 +56,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mansi-vaidya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mansi-vaidya&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1f6feb&height=120&section=header"/>
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-vaidya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
