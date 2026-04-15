@@ -32,7 +32,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
